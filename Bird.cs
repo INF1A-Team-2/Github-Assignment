@@ -1,4 +1,4 @@
-﻿class bird
+﻿class Bird
 {
     public void Chirp()
     {
